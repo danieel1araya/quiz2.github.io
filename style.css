@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+}
+
+body.bg-fondo{
+    background-image: url("estadio.pmg.jpg") ;
+    background-size: 1750px;
+}
+
+.navbar-small {
+    padding: 0.5rem 1rem;
+}
+.navbar-small .navbar-brand img {
+    height: 90px; /* Adjust the height of the logo */
+}
+.navbar-small .nav-link {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.table{
+    color: white; 
+}
+
+.card-header{
+    background-color: black;
+    color: white;
+}
+
+.card-body{
+    background-color: black;
+}
+
+
